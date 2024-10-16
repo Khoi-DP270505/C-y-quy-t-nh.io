@@ -1,0 +1,101 @@
+Legs,Habitat,Cover_Type,Reproduction,Mammal,Animal_Type
+0,Cây,Lông,Đẻ con,Không,Côn trùng
+4,Không khí,Vảy,Đẻ con,Không,Thú
+4,Không khí,Da trơn,Đẻ trứng,Không,Thú
+0,Đất,Da trơn,Đẻ con,Không,Côn trùng
+6,Nước,Vảy,Đẻ trứng,Không,Cá
+6,Cây,Da trơn,Đẻ trứng,Có,Bò sát
+0,Đất,Vảy,Đẻ con,Không,Thú
+6,Nước,Vảy,Đẻ con,Không,Thú
+6,Nước,Vảy,Đẻ con,Không,Chim
+6,Không khí,Vảy,Đẻ con,Có,Lưỡng cư
+4,Cây,Da trơn,Đẻ trứng,Có,Lưỡng cư
+8,Cây,Vảy,Đẻ trứng,Không,Chim
+2,Cây,Da trơn,Đẻ trứng,Không,Cá
+4,Cây,Vảy,Đẻ con,Có,Thú
+4,Cây,Da trơn,Đẻ trứng,Có,Cá
+6,Không khí,Lông,Đẻ con,Có,Thú
+4,Cây,Da trơn,Đẻ trứng,Không,Thú
+6,Không khí,Da trơn,Đẻ trứng,Có,Bò sát
+6,Nước,Lông,Đẻ trứng,Không,Cá
+0,Cây,Lông,Đẻ con,Không,Lưỡng cư
+0,Cây,Vảy,Đẻ con,Có,Chim
+8,Nước,Lông,Đẻ trứng,Không,Côn trùng
+6,Cây,Lông,Đẻ con,Không,Chim
+0,Không khí,Da trơn,Đẻ trứng,Không,Cá
+0,Đất,Lông,Đẻ trứng,Có,Lưỡng cư
+4,Nước,Vảy,Đẻ trứng,Có,Lưỡng cư
+8,Cây,Lông,Đẻ trứng,Có,Lưỡng cư
+6,Đất,Da trơn,Đẻ trứng,Có,Lưỡng cư
+4,Cây,Da trơn,Đẻ con,Không,Bò sát
+2,Đất,Da trơn,Đẻ con,Không,Côn trùng
+6,Cây,Da trơn,Đẻ con,Không,Thú
+6,Nước,Vảy,Đẻ trứng,Không,Cá
+8,Cây,Vảy,Đẻ trứng,Không,Chim
+2,Không khí,Vảy,Đẻ trứng,Có,Côn trùng
+8,Đất,Lông,Đẻ con,Có,Côn trùng
+8,Đất,Lông,Đẻ trứng,Có,Cá
+8,Cây,Lông,Đẻ trứng,Không,Thú
+2,Không khí,Vảy,Đẻ trứng,Có,Thú
+8,Đất,Da trơn,Đẻ con,Có,Côn trùng
+2,Cây,Vảy,Đẻ con,Có,Cá
+6,Không khí,Da trơn,Đẻ trứng,Có,Cá
+2,Không khí,Da trơn,Đẻ trứng,Có,Cá
+4,Cây,Da trơn,Đẻ trứng,Có,Cá
+2,Nước,Da trơn,Đẻ trứng,Không,Bò sát
+2,Không khí,Vảy,Đẻ trứng,Không,Chim
+6,Không khí,Vảy,Đẻ trứng,Có,Chim
+8,Đất,Lông,Đẻ con,Không,Bò sát
+4,Đất,Lông,Đẻ con,Không,Thú
+8,Không khí,Lông,Đẻ trứng,Có,Thú
+0,Không khí,Da trơn,Đẻ con,Không,Bò sát
+8,Cây,Da trơn,Đẻ trứng,Không,Bò sát
+2,Đất,Vảy,Đẻ trứng,Có,Bò sát
+4,Cây,Vảy,Đẻ trứng,Không,Chim
+8,Cây,Da trơn,Đẻ trứng,Không,Chim
+2,Nước,Da trơn,Đẻ con,Không,Thú
+6,Cây,Da trơn,Đẻ con,Có,Lưỡng cư
+8,Nước,Lông,Đẻ trứng,Có,Bò sát
+6,Đất,Da trơn,Đẻ con,Không,Thú
+0,Cây,Lông,Đẻ con,Không,Bò sát
+0,Không khí,Lông,Đẻ con,Không,Bò sát
+8,Nước,Lông,Đẻ con,Có,Thú
+4,Cây,Vảy,Đẻ trứng,Không,Bò sát
+8,Nước,Lông,Đẻ con,Không,Côn trùng
+8,Cây,Vảy,Đẻ trứng,Có,Cá
+6,Đất,Da trơn,Đẻ con,Không,Cá
+4,Đất,Da trơn,Đẻ trứng,Không,Côn trùng
+6,Đất,Lông,Đẻ trứng,Có,Bò sát
+6,Không khí,Vảy,Đẻ con,Không,Bò sát
+4,Nước,Da trơn,Đẻ con,Có,Cá
+2,Cây,Da trơn,Đẻ con,Có,Cá
+2,Đất,Vảy,Đẻ con,Có,Lưỡng cư
+2,Cây,Da trơn,Đẻ trứng,Không,Cá
+0,Đất,Vảy,Đẻ trứng,Có,Bò sát
+6,Không khí,Lông,Đẻ trứng,Không,Chim
+4,Không khí,Vảy,Đẻ trứng,Có,Côn trùng
+6,Nước,Lông,Đẻ trứng,Không,Côn trùng
+8,Không khí,Lông,Đẻ trứng,Có,Bò sát
+6,Nước,Vảy,Đẻ con,Không,Chim
+0,Cây,Lông,Đẻ trứng,Có,Chim
+4,Nước,Da trơn,Đẻ con,Có,Lưỡng cư
+8,Không khí,Da trơn,Đẻ trứng,Có,Bò sát
+6,Nước,Lông,Đẻ con,Có,Bò sát
+8,Không khí,Vảy,Đẻ con,Có,Côn trùng
+0,Cây,Da trơn,Đẻ con,Có,Bò sát
+2,Đất,Vảy,Đẻ trứng,Có,Bò sát
+2,Nước,Da trơn,Đẻ trứng,Không,Cá
+4,Nước,Lông,Đẻ con,Không,Thú
+6,Cây,Da trơn,Đẻ con,Không,Cá
+2,Đất,Vảy,Đẻ con,Có,Bò sát
+8,Nước,Da trơn,Đẻ con,Không,Côn trùng
+8,Không khí,Vảy,Đẻ trứng,Không,Chim
+4,Không khí,Da trơn,Đẻ trứng,Không,Côn trùng
+4,Cây,Da trơn,Đẻ con,Có,Thú
+6,Không khí,Da trơn,Đẻ trứng,Không,Chim
+8,Nước,Da trơn,Đẻ trứng,Có,Thú
+6,Cây,Lông,Đẻ con,Có,Chim
+2,Cây,Vảy,Đẻ trứng,Không,Côn trùng
+2,Không khí,Da trơn,Đẻ con,Không,Thú
+2,Nước,Da trơn,Đẻ con,Có,Cá
+2,Đất,Vảy,Đẻ con,Có,Bò sát
